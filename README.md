@@ -14,5 +14,7 @@ Now let's put lorem ips  um
 
 ### Changed something in readme
 
+ 
+### Another change - 1
 
-### Another change
+### Another change - 2
